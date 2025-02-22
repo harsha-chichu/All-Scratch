@@ -1,1 +1,2 @@
-ALL Thiese are created from scratch without using any pre existing models or tesnorflow
+Here i'm Implementing Every Machine Learning Model From Scratch...
+
